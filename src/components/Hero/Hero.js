@@ -12,8 +12,7 @@ const Hero = (props) => (
       My Portfolio
       </SectionTitle>
       <SectionText>
-        Hello, I'm a Front-end developer and in this Portfolio rest 
-        information about me and some of my projects. 
+      Hello, I'm a front-end developer, and this portfolio contains information about me as well as some of my projects. 
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/Gab0CS/Gab0CS.github.io'}> Portfolio repository</Button>
     </LeftSection>
