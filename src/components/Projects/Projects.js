@@ -22,7 +22,7 @@ const Projects = () => (
           <BlogCard key={project.id}>
             <Img src={project.image} />
             <TitleContent>
-              <HeaderThree title>{project.title}</HeaderThree>
+              <HeaderThree title >{project.title}</HeaderThree>
               <Hr />
             </TitleContent>
             <CardInfo>{project.description}</CardInfo>
@@ -35,8 +35,8 @@ const Projects = () => (
               </TagList>                  
             </div>
             <UtilityList>
-              <ExternalLinks href={project.visit} target='blank'>Githhub repository</ExternalLinks>
-              <ExternalLinks href={project.source} target='blank'>Source</ExternalLinks>
+              <ExternalLinks href={project.visit} target='blank'>Git hub repository</ExternalLinks>
+              {project.id !== 0 && <ExternalLinks href={project.source} target='blank'>Visit the site</ExternalLinks>}
             </UtilityList>
           </BlogCard>
           ))}

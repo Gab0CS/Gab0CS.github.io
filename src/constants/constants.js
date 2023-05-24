@@ -22,7 +22,7 @@ export const projects = [
     description: "This is a React app that I created to implement my knowledge of React hooks and stateful and stateless functional component patterns. It serves as an appointment planner to assist you in organizing your time effectively.",
       image: '/images/appointments.jpg',
       tags: ['React', 'JavaScript'],
-    source: 'https://regal-travesseiro-8d3af2.netlify.app/contacts',
+    source: 'https://regal-travesseiro-8d3af2.netlify.app',
     visit: 'https://github.com/Gab0CS/react_challenge_start',
     id: 2,
   },
