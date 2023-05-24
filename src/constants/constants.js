@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Chat GPT UI',
-    description: 'This is a UI for a chatGTP like web app, usign React i made this a full responsive and interactive web application.',
+    description: 'This is a UI for a ChatGPT-like web app. I have used React to create a fully responsive and interactive web application. However, please note that it is currently not available.',
     image: '/images/iachat.jpeg',
       tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Adopt a Pet',
-    description: 'To help a pet shelter with the adoption process, I made this React web app , this page navigates you through diferent kinds of pets usign React-Router library to experience the full SPA experience.',
+    description: 'To assist a pet shelter with the adoption process, I developed a React web app. This web application guides you through various types of pets using the React-Router library, providing a seamless Single Page Application (SPA) experience.',
     image: '/images/adopt.jpg',
     tags: ['React','React-Router', 'JavaScript'],
     source: 'https://inquisitive-dragon-9de480.netlify.app/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Appointment planner',
-    description: "This is as React app that i made to implement my knowledge of React hooks and stateful and stateless functional components patterns, it's an appointment planner to help you to planify your time.",
+    description: "This is a React app that I created to implement my knowledge of React hooks and stateful and stateless functional component patterns. It serves as an appointment planner to assist you in organizing your time effectively.",
       image: '/images/appointments.jpg',
       tags: ['React', 'JavaScript'],
     source: 'https://regal-travesseiro-8d3af2.netlify.app/contacts',
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Piano keys',
-    description: "This is and interactive piano page to follow \"happy birthday\" song.",
+    description: "This is an interactive piano page to follow the 'Happy Birthday' song",
     image: '/images/pianokeys.jpg',
     tags: ['HTML', 'CSS', 'JavaScript'],
     source: 'https://pianokeys.surge.sh/',
