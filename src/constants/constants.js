@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Chat GPT UI',
-    description: 'This is a UI for a ChatGPT-like web app. I have used React to create a fully responsive and interactive web application. However, please note that it is currently not available.',
-    image: '/images/iachat.jpeg',
-      tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://github.com/Gab0CS/ia-chat',
+    title: 'Fiubags',
+    description: 'I am currently working on an ecommerce project where my responsibility is to restructure the user interfaces to enhance the overall user experience (UX) and improve conversions.',
+    image: '/images/fiubags.jpg',
+      tags: ['Laravel', 'JavaScript', 'php', 'Linux'],
+    source: 'https://fiubags.mx/',
+    visit: '#!',
     id: 0,
   },
   {
@@ -53,5 +53,5 @@ export const TimeLineData = [
   { year: 2021, text: 'Worked as Production Analyst where I developed a CRUD App for production control.', },
   { year: 2022, text: 'Worked as data Analyst intern.', },
   { year: 2022, text: 'Completed the college.', },
-  { year: 2023, text: 'Looking for a job opportunity.', },
+  { year: 2023, text: 'Working at Brandbackers as Web Developer.', },
 ];

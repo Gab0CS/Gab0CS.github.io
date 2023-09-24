@@ -17,7 +17,8 @@ const Technologies = () =>  (
             Experience with <br />
             React.Js <br />
             Vue.Js<br />
-            React Native
+            React Native <br />
+            Laravel
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,16 +31,6 @@ const Technologies = () =>  (
             Node.Js<br />
             Express<br />
             SQL
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiResponsive size='3rem'/>
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            Figma and other wireframers.
           </ListParagraph>
         </ListContainer>
       </ListItem>
