@@ -3,7 +3,7 @@ export const projects = [
     title: 'Fiubags',
     description: 'I am currently working on an ecommerce project where my responsibility is to restructure the user interfaces to enhance the overall user experience (UX) and improve conversions.',
     image: '/images/fiubags.jpg',
-      tags: ['Laravel', 'JavaScript', 'php', 'Linux'],
+      tags: ['Laravel', 'JavaScript', 'Boostrap', 'Linux'],
     source: 'https://fiubags.mx/',
     visit: '#!',
     id: 0,

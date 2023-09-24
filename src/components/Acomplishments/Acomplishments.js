@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 10, text: 'Happy freelance clients.'},
-  { number: 2, text: 'Years of experience.', },
+  { number: 1, text: 'Year of experience.', },
   { number: 6, text: 'Online courses and certifications.', },
   { number: 1, text: 'Bachelor Degree.', }
 ];

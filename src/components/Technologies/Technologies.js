@@ -18,6 +18,7 @@ const Technologies = () =>  (
             React.Js <br />
             Vue.Js<br />
             React Native <br />
+            Boostrap <br/>
             Laravel
           </ListParagraph>
         </ListContainer>
