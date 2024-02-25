@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Threads Social App',
+    description: 'This is a full-stack application that I created to practice the MERN Stack. It utilizes ShadCN and incorporates the Clerk authentication system.',
+    image: '/images/threads.jpg',
+      tags: ['MongoDB', 'Express', 'React', 'Node', 'TypeScript'],
+    source: 'https://threads-iota-nine.vercel.app/',
+    visit: 'https://github.com/Gab0CS/threads',
+    id: 0,
+  },
+  {
     title: 'Fiubags',
     description: 'I am currently working on an ecommerce project where my responsibility is to restructure the user interfaces to enhance the overall user experience (UX) and improve conversions.',
     image: '/images/fiubags.jpg',
       tags: ['Laravel', 'JavaScript', 'Boostrap', 'Linux'],
     source: 'https://fiubags.mx/',
     visit: '#!',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Adopt a Pet',

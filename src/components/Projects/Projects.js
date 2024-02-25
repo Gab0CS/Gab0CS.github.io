@@ -3,16 +3,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
-const projectsDemo = [{
-  title: 'Project 1',
-  description: 'Description about the project'
-},{
-  title: 'Project 2',
-  description: 'Description about the project'
-},{
-  title: 'Project 3',
-  description: 'Description about the project'
-}];
+
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
@@ -35,7 +26,7 @@ const Projects = () => (
               </TagList>                  
             </div>
             <UtilityList>
-              {project.id !== 0 && <ExternalLinks href={project.visit} target='blank'>Git hub repository</ExternalLinks>}
+              {project.id !== 1 && <ExternalLinks href={project.visit} target='blank'>Git hub repository</ExternalLinks>}
               <ExternalLinks href={project.source} target='blank'>Visit the site</ExternalLinks>
             </UtilityList>
           </BlogCard>
