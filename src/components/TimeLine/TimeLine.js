@@ -44,7 +44,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About me</SectionTitle>
       <SectionText>
-        I studied Automotive Engineering at the Benemerita Universidad Autonoma de Puebla and completed a Full-stack Engineering program at CodeCademy. Currently, I am actively searching for a job opportunity.
+        I studied Automotive Engineering at the Benemerita Universidad Autonoma de Puebla and completed a Full-stack Engineering program at CodeCademy. And various online courses and certifications for modern development.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

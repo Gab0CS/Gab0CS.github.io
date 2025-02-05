@@ -29,6 +29,8 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
+            Java <br />
+            Spring <br />
             Node.Js<br />
             Express<br />
             SQL

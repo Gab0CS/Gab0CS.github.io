@@ -56,11 +56,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started the college.', },
-  { year: 2019, text: 'My interest in programming and the IT world began.', },
-  { year: 2020, text: 'Finished all the freeCodeCamp courses.', },
-  { year: 2021, text: 'Worked as Production Analyst where I developed a CRUD App for production control.', },
-  { year: 2022, text: 'Worked as data Analyst intern.', },
-  { year: 2022, text: 'Completed the college.', },
-  { year: 2023, text: 'Working at Brandbackers as Web Developer.', },
+  { year: 2021, text: 'Worked as data Analyst intern.'},
+  { year: 2022, text: 'Completed the college.'},
+  { year: 2022, text: 'Worked at Fiubags as Full-Stack developer.'},
+  { year: 2024, text: 'Worked at Mistertennis as Full-Stack developer.'},
+  { year: 2024, text: 'Worked at Pepisco as Full-Stack developer.'}
+
 ];
